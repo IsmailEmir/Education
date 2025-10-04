@@ -1,0 +1,14 @@
+D:\Projects\September\obj\Debug\net9.0\September.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\September\obj\Debug\net9.0\September.AssemblyInfoInputs.cache
+D:\Projects\September\obj\Debug\net9.0\September.AssemblyInfo.cs
+D:\Projects\September\obj\Debug\net9.0\September.csproj.CoreCompileInputs.cache
+D:\Projects\September\bin\Debug\net9.0\September.exe
+D:\Projects\September\bin\Debug\net9.0\September.deps.json
+D:\Projects\September\bin\Debug\net9.0\September.runtimeconfig.json
+D:\Projects\September\bin\Debug\net9.0\September.dll
+D:\Projects\September\bin\Debug\net9.0\September.pdb
+D:\Projects\September\obj\Debug\net9.0\September.dll
+D:\Projects\September\obj\Debug\net9.0\refint\September.dll
+D:\Projects\September\obj\Debug\net9.0\September.pdb
+D:\Projects\September\obj\Debug\net9.0\September.genruntimeconfig.cache
+D:\Projects\September\obj\Debug\net9.0\ref\September.dll
