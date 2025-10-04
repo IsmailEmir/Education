@@ -1,0 +1,14 @@
+D:\Repositories\Education\Task2\bin\Debug\net9.0\Task2.exe
+D:\Repositories\Education\Task2\bin\Debug\net9.0\Task2.deps.json
+D:\Repositories\Education\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+D:\Repositories\Education\Task2\bin\Debug\net9.0\Task2.dll
+D:\Repositories\Education\Task2\bin\Debug\net9.0\Task2.pdb
+D:\Repositories\Education\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Education\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+D:\Repositories\Education\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+D:\Repositories\Education\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+D:\Repositories\Education\Task2\obj\Debug\net9.0\Task2.dll
+D:\Repositories\Education\Task2\obj\Debug\net9.0\refint\Task2.dll
+D:\Repositories\Education\Task2\obj\Debug\net9.0\Task2.pdb
+D:\Repositories\Education\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+D:\Repositories\Education\Task2\obj\Debug\net9.0\ref\Task2.dll
