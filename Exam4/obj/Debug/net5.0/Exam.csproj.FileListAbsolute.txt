@@ -1,0 +1,16 @@
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.csprojAssemblyReference.cache
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+C:\Exam\Exam4\bin\Debug\net5.0\Exam.exe
+C:\Exam\Exam4\bin\Debug\net5.0\Exam.deps.json
+C:\Exam\Exam4\bin\Debug\net5.0\Exam.runtimeconfig.json
+C:\Exam\Exam4\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+C:\Exam\Exam4\bin\Debug\net5.0\Exam.dll
+C:\Exam\Exam4\bin\Debug\net5.0\ref\Exam.dll
+C:\Exam\Exam4\bin\Debug\net5.0\Exam.pdb
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.dll
+C:\Exam\Exam4\obj\Debug\net5.0\ref\Exam.dll
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.pdb
+C:\Exam\Exam4\obj\Debug\net5.0\Exam.genruntimeconfig.cache
