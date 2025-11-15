@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\Koch\bin\Debug\net9.0\Koch.exe
+C:\Users\ismai\Desktop\Koch\bin\Debug\net9.0\Koch.deps.json
+C:\Users\ismai\Desktop\Koch\bin\Debug\net9.0\Koch.runtimeconfig.json
+C:\Users\ismai\Desktop\Koch\bin\Debug\net9.0\Koch.dll
+C:\Users\ismai\Desktop\Koch\bin\Debug\net9.0\Koch.pdb
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\Koch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\Koch.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\Koch.AssemblyInfo.cs
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\Koch.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\Koch.dll
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\refint\Koch.dll
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\Koch.pdb
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\Koch.genruntimeconfig.cache
+C:\Users\ismai\Desktop\Koch\obj\Debug\net9.0\ref\Koch.dll

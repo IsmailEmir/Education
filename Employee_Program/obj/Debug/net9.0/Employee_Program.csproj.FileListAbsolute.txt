@@ -1,0 +1,14 @@
+C:\Users\ismai\Desktop\Employee_Program\bin\Debug\net9.0\Employee_Program.exe
+C:\Users\ismai\Desktop\Employee_Program\bin\Debug\net9.0\Employee_Program.deps.json
+C:\Users\ismai\Desktop\Employee_Program\bin\Debug\net9.0\Employee_Program.runtimeconfig.json
+C:\Users\ismai\Desktop\Employee_Program\bin\Debug\net9.0\Employee_Program.dll
+C:\Users\ismai\Desktop\Employee_Program\bin\Debug\net9.0\Employee_Program.pdb
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\Employee_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\Employee_Program.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\Employee_Program.AssemblyInfo.cs
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\Employee_Program.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\Employee_Program.dll
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\refint\Employee_Program.dll
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\Employee_Program.pdb
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\Employee_Program.genruntimeconfig.cache
+C:\Users\ismai\Desktop\Employee_Program\obj\Debug\net9.0\ref\Employee_Program.dll
