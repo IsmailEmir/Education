@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -58,7 +58,7 @@ public class Employee
     }
     public virtual decimal CalculateBonus()
     {
-        return Salary * 0.05m;
+        return Salary * 1.05m;
     }
 }
 public class Intern : Employee
@@ -84,7 +84,7 @@ public class Manager : Employee
     }
     public override decimal CalculateBonus()
     {
-        return Salary * 0.15m;
+        return Salary * 1.15m;
     }
 }
 public class Developer : Employee
@@ -97,7 +97,7 @@ public class Developer : Employee
     }
     public override decimal CalculateBonus()
     {
-        return Salary * (0.05m + 0.01m * ProjectComplexityScore);
+        return Salary + Salary * (0.05m + 0.01m * ProjectComplexityScore);
     }
 }
 public class PayrollProcessor
@@ -337,7 +337,7 @@ class Program
         foreach (var emp in staff)
         {
             Console.WriteLine(emp.DisplayFormalInfo());
-            Console.WriteLine($"  Бонус: {emp.CalculateBonus().ToCurrencyFormat()}");
+            Console.WriteLine($"  ЗП + Бонус: {emp.CalculateBonus().ToCurrencyFormat()}");
         }
         Console.WriteLine();
     }
